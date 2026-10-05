@@ -10,3 +10,5 @@ versta ik dit: ja
 
 
 nieuwe commit: test
+
+ignore werking
