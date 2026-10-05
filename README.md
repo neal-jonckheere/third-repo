@@ -7,3 +7,6 @@ github: is een remote server, gebruikt in team meestal
 
 
 versta ik dit: ja
+
+
+nieuwe commit: test
